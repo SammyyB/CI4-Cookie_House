@@ -22,12 +22,12 @@ class Users extends BaseController
         return view('user/signup_page');
     }
 
-    public function signup(): string
+    public function moodboard(): string
     {
         return view('user/moodboard_page');
     }
 
-    public function signup(): string
+    public function roadmap(): string
     {
         return view('user/roadmap_page');
     }
