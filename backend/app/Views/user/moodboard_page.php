@@ -4,6 +4,7 @@
     <title>Mood Board - Golden Crumbs Cookie House</title>
     <link rel="stylesheet" href="assets/styles.css">
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="shortcut icon" type="image/png" href="assets/logo-favico.ico" />
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
     <style>
         body.moodboard-page {
